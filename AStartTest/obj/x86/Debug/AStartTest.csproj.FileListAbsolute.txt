@@ -1,0 +1,12 @@
+C:\Users\Aggror\Desktop\AStartTest\bin\Debug\AStartTest.exe
+C:\Users\Aggror\Desktop\AStartTest\bin\Debug\AStartTest.pdb
+C:\Users\Aggror\Desktop\AStartTest\bin\Debug\LE.NET.dll
+C:\Users\Aggror\Desktop\AStartTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aggror\Desktop\AStartTest\obj\x86\Debug\AStartTest.exe
+C:\Users\Aggror\Desktop\AStartTest\obj\x86\Debug\AStartTest.pdb
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\obj\x86\Debug\AStartTest.exe
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\obj\x86\Debug\AStartTest.pdb
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\bin\Debug\AStartTest.exe
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\bin\Debug\AStartTest.pdb
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\bin\Debug\LE.NET.dll
+C:\Users\Aggror\Documents\Dropbox\Leadwerks\AStartTest\obj\x86\Debug\ResolveAssemblyReference.cache
